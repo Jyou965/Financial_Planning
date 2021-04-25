@@ -51,19 +51,19 @@ The application evaluates a sample personal portfolio that consists of the tradi
 
     a. Set the traditional portfolio mix to 60% in stocks and 40% in bonds.  Use the past ten years of pricing data to forecast the value of the traditional portfolio in 30 years with Monte Carlo simulation.  Display the simulation results in the following manners:
 
-    ![line_30](https://github.com/Jyou965/Financial_Planning/blob/main/Code/Images/line_30.png)
+![line_30](https://github.com/Jyou965/Financial_Planning/blob/main/Code/Images/line_30.png)
 
-    ![hist_30](https://github.com/Jyou965/Financial_Planning/blob/main/Code/Images/hist_30.png)
+![hist_30](https://github.com/Jyou965/Financial_Planning/blob/main/Code/Images/hist_30.png)
 
-    ![stats_30](https://github.com/Jyou965/Financial_Planning/blob/main/Code/Images/stats_30.png)
+![stats_30](https://github.com/Jyou965/Financial_Planning/blob/main/Code/Images/stats_30.png)
 
     b. Set the portfolio mix to 80% in stocks and 20% in bonds, forecast the value of the traditional portfolio in 10 years in the same approach.  Display the simulation results in the following manners:
 
-    ![line_10](https://github.com/Jyou965/Financial_Planning/blob/main/Code/Images/line_10.png)
+![line_10](https://github.com/Jyou965/Financial_Planning/blob/main/Code/Images/line_10.png)
 
-    ![hist_10](https://github.com/Jyou965/Financial_Planning/blob/main/Code/Images/hist_10.png)
-    
-    ![stats_10](https://github.com/Jyou965/Financial_Planning/blob/main/Code/Images/stats_10.png)
+![hist_10](https://github.com/Jyou965/Financial_Planning/blob/main/Code/Images/hist_10.png)
+
+![stats_10](https://github.com/Jyou965/Financial_Planning/blob/main/Code/Images/stats_10.png)
 
     c. Assess if the client can retire in ten years under the more aggressive portfolio mix and advise accordingly.
 
